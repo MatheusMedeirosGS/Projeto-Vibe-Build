@@ -91,10 +91,6 @@ export default function ReportsPage() {
     display: 'flex',
     flexDirection: 'column',
     gap: '12px',
-    ':hover': {
-      boxShadow: '0 4px 12px rgba(0,0,0,0.1)',
-      transform: 'translateY(-2px)',
-    },
   };
 
   const reportIconStyles: React.CSSProperties = {
