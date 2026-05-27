@@ -115,7 +115,7 @@ export default function InventoryPage() {
       case 'in-stock':
         return COLORS.success;
       case 'low':
-        return COLORS.warning || '#F5A623';
+        return COLORS.warning;
       case 'critical':
         return COLORS.alert;
       default:

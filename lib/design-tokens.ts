@@ -26,6 +26,7 @@ export const COLORS = {
   // Semantic
   success: '#6B7F6D', // Verde Musgo - sucesso, segurança
   info: '#4A6FA5', // Azul Retrô - informação, confiança
+  warning: '#F5A623', // Laranja - aviso, estoque baixo
   alert: '#C9634F', // Terracota - urgência, alerta
   danger: '#C9634F', // Mesmo que alert (para erros)
 
